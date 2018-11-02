@@ -1,4 +1,12 @@
-body
-{
+
+
+h1 {
+  background-color:white
+  font-family: verdana;
+  font-size: 300%;
+}
+
+
+body {
 background-color:yellow
 }
