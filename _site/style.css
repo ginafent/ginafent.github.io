@@ -49,6 +49,11 @@ nav ul li ul {
   display: block;
   position: absolute;
   background-color:white;
+  padding: 8px;
+}
+
+nav ul li ul li {
+  width:150px;
 }
 
 nav ul li ul li a {
