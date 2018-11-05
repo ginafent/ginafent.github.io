@@ -40,6 +40,7 @@ nav ul li a {
   font-family: arial;
   color: #222;
   font-size: 20px;
-  padding: 24px 14px;
+  padding: 18px 14px;
+  text-decoration: none;
 
 }
