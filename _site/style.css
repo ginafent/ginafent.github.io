@@ -1,5 +1,4 @@
 
-
 * {
   margin:0;
   padding:0;
@@ -8,7 +7,6 @@
 body {
 background-color:yellow
 }
-
 
 nav {
   width: 100%;
@@ -27,7 +25,6 @@ nav p {
 
 nav ul {
   float: left;
-
 }
 
 nav ul li {
@@ -56,7 +53,6 @@ nav ul li ul {
 nav ul li:hover ul {
   display: block;
 }
-
 
 nav ul li:hover ul {
   width:150px;
