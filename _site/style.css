@@ -44,3 +44,10 @@ nav ul li a {
   padding: 18px 14px;
   text-decoration: none;
 }
+
+nav ul li ul {
+  display: block;
+  position: absolute;
+  background-color:white;
+  
+}
