@@ -34,3 +34,12 @@ nav ul li {
   float:left;
   list-style: none;
 }
+
+nav ul li a {
+  display: block;
+  font-family: arial;
+  color: #222;
+  font-size: 24px;
+  padding: 24px 14px;
+
+}
