@@ -33,6 +33,7 @@ nav ul {
 nav ul li {
   float:left;
   list-style: none;
+  position: relative;
 }
 
 nav ul li a {
@@ -42,5 +43,4 @@ nav ul li a {
   font-size: 20px;
   padding: 18px 14px;
   text-decoration: none;
-
 }
