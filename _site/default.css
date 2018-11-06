@@ -52,7 +52,7 @@ nav ul li ul {
 
 nav ul li:hover ul {
   display: block;
-  width:180px;
+  width:190px;
 }
 
 
@@ -62,4 +62,5 @@ nav ul li ul li a {
 
 nav ul li ul li a:hover {
   background-color: #f3f3f3;
+  width: 160px;
 }
