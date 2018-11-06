@@ -52,12 +52,13 @@ nav ul li ul {
 
 nav ul li:hover ul {
   display: block;
-  width:150px
+  width:150px;
 }
 
 
 nav ul li ul li a {
-  padding:10px
+  padding:10px;
+  color:red;
 }
 
 nav ul li ul li a:hover {
