@@ -5,7 +5,9 @@
  }
 
 body {
+color:#FFFFE6;
 background-color:#ACAE57;
+
 }
 
 nav {
@@ -16,7 +18,7 @@ nav {
 
 nav p {
   font-family: arial;
-  color: #222;
+  color: #5C533C;
   font-size: 24px;
   line-height: 55px;
   float: left;
