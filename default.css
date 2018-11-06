@@ -5,20 +5,20 @@
  }
 
 body {
-color:#FFFFE6;
-background-color:#ACAE57;
+color:#A7D49B;
+background-color:#417751;
 
 }
 
 nav {
   width: 100%;
   height: 60px;
-  background-color:#FFFFE6
+  background-color:#A7D49B
 }
 
 nav p {
   font-family: arial;
-  color: #5C533C;
+  color: #5A1807;
   font-size: 24px;
   line-height: 55px;
   float: left;
@@ -38,7 +38,7 @@ nav ul li {
 nav ul li a {
   display: block;
   font-family: arial;
-  color: #222;
+  color: #5A1807;
   font-size: 20px;
   padding: 18px 14px;
   text-decoration: none;
@@ -47,7 +47,7 @@ nav ul li a {
 nav ul li ul {
   display: none;
   position: absolute;
-  background-color:white;
+  background-color:#A7D49B;
   padding: 0px;
   border-radius: 0px 0px 10px 10px;
 }
