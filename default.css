@@ -5,20 +5,20 @@
  }
 
 body {
-color:#A7D49B;
-background-color:#417751;
+color:#F6D383;
+background-color:#A78E70;
 
 }
 
 nav {
   width: 100%;
   height: 60px;
-  background-color:#A7D49B
+  background-color:#F6D383
 }
 
 nav p {
   font-family: arial;
-  color: #5A1807;
+  color: #A78E70;
   font-size: 24px;
   line-height: 55px;
   float: left;
