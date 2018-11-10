@@ -55,6 +55,7 @@ nav ul li ul {
 nav ul li:hover ul {
   display: block;
   width:190px;
+
 }
 
 
@@ -64,5 +65,11 @@ nav ul li ul li a {
 
 nav ul li ul li a:hover {
   background-color: #f3f3f3;
+  width: 160px;
+  border-radius: 0px 0px 10px 10px;
+}
+
+nav ul li ul li a:active     {
+  text-decoration: underline;
   width: 160px;
 }
