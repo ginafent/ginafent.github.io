@@ -64,6 +64,10 @@ nav ul li:hover ul {
 }
 
 nav ul li ul li a {
+  width:190px;
+}
+
+nav ul li ul li a {
   padding:14px;
 }
 
