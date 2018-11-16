@@ -3,3 +3,10 @@
     margin-top: 60px;
     float: relative;
 }
+
+.ginatitle{
+  float:left;
+  padding:0;
+  margin:0;
+  position:relative;
+}
