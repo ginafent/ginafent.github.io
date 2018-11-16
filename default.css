@@ -25,6 +25,8 @@ nav p {
   padding: 0px 20px;
 }
 
+.menu{ z-index: 999;}
+
 nav ul {
   float: left;
 }
