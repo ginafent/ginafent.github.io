@@ -7,6 +7,10 @@
   position:absolute;
 }
 
+nav{
+  margin-bottom: 0;
+}
+
 img {
  height:90%;
  position:inline;
