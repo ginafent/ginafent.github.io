@@ -1,3 +1,4 @@
 .card-deck{
+  display:absolute;
   float:left;
 }
