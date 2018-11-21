@@ -1,17 +1,20 @@
 
 
-img{
-  float:right;
-}
-
 h4{
   padding-bottom: 20px;
 }
 
 .home-message{
+  margin:0;
   padding-top: 40px;
-  padding-left: 15px;
- display:relative;
- float:left;
- width:50%;
+  padding-left: 0px;
+  display:inline-block;
+  position:relative;
+  float:left;
+  width:50%;
+}
+
+img{
+  float:right;
+  display:relative;
 }
