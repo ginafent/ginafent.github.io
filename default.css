@@ -1,0 +1,95 @@
+
+* {
+  margin:0;
+  padding:0;
+ }
+
+ .fa {
+  padding: 20px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none; }
+
+body {
+  color:#F6D383;
+  background-color:#A78E70;
+}
+
+nav {
+  width: 100%;
+  height: 60px;
+  margin-bottom: 10px;
+  background-color:#F6D383
+}
+
+nav p {
+  font-family: arial;
+  color: #A78E70;
+  font-size: 24px;
+  line-height: 55px;
+  float: left;
+  padding: 0px 20px;
+}
+
+
+/* this is all the drop down menu */
+.menu { z-index: 999;}
+
+nav ul {
+  float: left;
+}
+
+nav ul li {
+  float:left;
+  list-style: none;
+  position: relative;
+}
+
+nav ul li a {
+  display: block;
+  font-family: arial;
+  color: #5A1807;
+  font-size: 20px;
+  padding: 1px 8px;
+  text-decoration: none;
+}
+
+nav ul li ul {
+  display: none;
+  position: absolute;
+  background-color:#F6D383;
+  padding: 0px;
+  border-radius: 0px 0px 10px 10px;
+}
+
+nav ul li a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+nav ul li:hover ul {
+  display: block;
+  width:190px;
+
+}
+
+nav ul li ul li a {
+  width:190px;
+}
+
+nav ul li ul li a {
+  padding:14px;
+}
+
+nav ul li ul li a:hover {
+  color: black;
+  background-color: #f3f3f3;
+  text-decoration: none;
+  width: 190px;
+  border-radius: 0px 0px 10px 10px;
+}
+
+nav ul li ul li a:active     {
+  text-decoration: underline;
+  width: 190px;
+}

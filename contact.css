@@ -1,0 +1,49 @@
+.contact-content{
+  float:left;
+  width:80%;
+  display:block;
+  margin-top: 20px;
+  margin-left:20px;
+  position:absolute;
+}
+
+nav{
+  margin-bottom: 0;
+}
+
+img {
+ height:90%;
+ position:inline;
+ float:right
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+h3{
+  padding:0;
+  margin:0;
+  margin-bottom: 30px;
+}
+
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+
+.fa-github-square {
+    color: #333
+}
+
+.fa-instagram {
+    color: #3f729b;
+}
+
+
+.contact-body{
+  float:relative;
+}
