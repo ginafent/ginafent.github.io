@@ -1,3 +1,9 @@
-.card {
-  color:red;
+.card-group{
+  float:left;
+}
+
+
+
+.card{
+  float:left;
 }
