@@ -2,5 +2,10 @@
 .card-group{
   display:block;
   float:left;
-  padding-left:10px;
+  padding-left:20px;
+  padding-top:50px;
+}
+
+body{
+  float:left;
 }
