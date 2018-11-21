@@ -12,3 +12,10 @@ body{
   float:left;
   width:100%;
 }
+
+h3{
+  display:block;
+  padding-bottom: 20;
+  padding-top:20px;
+  padding-left: 40px;
+}
