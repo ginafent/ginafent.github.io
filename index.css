@@ -18,3 +18,10 @@ img{
   float:right;
   display:relative;
 }
+
+
+@media screen and (max-width: 480px) {
+    img {
+        display: hidden !important;
+    }
+}
