@@ -1,0 +1,15 @@
+.card-deck{
+  display:relative;
+  float:left;
+}
+
+
+.card{
+  display:block;
+  float:left;
+}
+
+.card-deck{
+ width:100%;
+
+}
