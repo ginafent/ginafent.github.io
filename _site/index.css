@@ -4,8 +4,13 @@ img{
   float:right;
 }
 
+h4{
+  padding-bottom: 20px;
+}
+
 .home-message{
   padding-top: 40px;
+  padding-left: 15px;
  display:relative;
  float:left;
  width:50%;

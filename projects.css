@@ -1,4 +1,8 @@
-.card-deck{
-  display:absolute;
+
+.card-group{
+  display:block;
+  float:left;
+  padding-left:20px;
+  padding-top:50px;
   float:left;
 }
