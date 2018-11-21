@@ -1,4 +1,4 @@
 .card-deck{
-  display:absolute;
+  display:block;
   float:left;
 }
