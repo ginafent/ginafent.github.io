@@ -6,10 +6,11 @@
 h1{
   margin: 5;
   padding-bottom: 20;
-  padding-top:20px;
+  padding-top:10px;
   padding-left: 20px;
 }
 
 .my-col{
+  padding-top:0px;
   padding-right:70px;
 }
