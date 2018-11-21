@@ -1,4 +1,9 @@
 .card-deck{
-  display:block;
+  display:relative;
   float:left;
+}
+
+
+.card{
+  display:relative;
 }
